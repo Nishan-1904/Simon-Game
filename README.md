@@ -5,11 +5,11 @@ A web-based Simon Game built using HTML, CSS, and JavaScript. The game tests and
 
 🚀 Features
 
-Interactive UI with vibrant color buttons.
-Keyboard and Click Support for user-friendly gameplay.
-Dynamic Difficulty Scaling as levels increase.
-Sound Effects for a more engaging experience.
-Fully Responsive design for all screen sizes.
+1. Interactive UI with vibrant color buttons.
+2. Keyboard and Click Support for user-friendly gameplay.
+3. Dynamic Difficulty Scaling as levels increase.
+4. Sound Effects for a more engaging experience.
+5. Fully Responsive design for all screen sizes.
 
 📷 Screenshot
 ![image](https://github.com/user-attachments/assets/f324b9e6-dade-4608-aac7-3be6945c870e)
