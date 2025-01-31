@@ -1,8 +1,10 @@
 # Simon-Game
 🎮 Simon Game
+
 A web-based Simon Game built using HTML, CSS, and JavaScript. The game tests and enhances memory skills by challenging players to recall and replicate sequences of colors.
 
 🚀 Features
+
 Interactive UI with vibrant color buttons.
 Keyboard and Click Support for user-friendly gameplay.
 Dynamic Difficulty Scaling as levels increase.
@@ -14,11 +16,13 @@ Fully Responsive design for all screen sizes.
 
 
 🛠️ Technologies Used
+
 HTML - Structure of the game.
 CSS - Styling for an engaging UI.
 JavaScript - Game logic, event handling, and animations.
 
 🏁 How to Play
+
 Click any key to start the game.
 Memorize the color sequence displayed.
 Repeat the sequence by clicking the buttons in the correct order.
