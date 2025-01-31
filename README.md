@@ -18,13 +18,19 @@ Fully Responsive design for all screen sizes.
 🛠️ Technologies Used
 
 HTML - Structure of the game.
+
 CSS - Styling for an engaging UI.
+
 JavaScript - Game logic, event handling, and animations.
 
 🏁 How to Play
 
 Click any key to start the game.
+
 Memorize the color sequence displayed.
+
 Repeat the sequence by clicking the buttons in the correct order.
+
 The sequence increases in length with each level.
+
 A wrong move resets the game back to Level 1.
